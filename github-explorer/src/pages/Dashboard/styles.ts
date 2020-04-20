@@ -93,7 +93,8 @@ export const Repositories = styled.div`
 
     div {
       margin: 0 16px;
-      flex: 1 h2 {
+      flex: 1;
+      h2 {
         font-size: 20px;
         font-weight: bold;
         color: #3d3d4d;
